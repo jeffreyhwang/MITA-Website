@@ -1,5 +1,6 @@
-MITA-Website (http://itins6.madisoncollege.edu/mita/)
+MITA-Website
 ============
+Website: http://itins6.madisoncollege.edu/mita/
 Development priority:
   High
      Mobile Friendly Design
