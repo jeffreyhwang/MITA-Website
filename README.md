@@ -1,6 +1,7 @@
 MITA-Website
 ============
 Website: http://itins6.madisoncollege.edu/mita/
+
 Development priority:
 
   High
